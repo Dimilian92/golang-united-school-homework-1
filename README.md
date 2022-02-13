@@ -1,6 +1,6 @@
 # Introduction task 
 
-The purpose of this task is to figure out how to use basic tooling of the Golang as well as check your IDE setup.
+The purpose of this task is to figure out how to use basic tololing of the Golang as well as check your IDE setup.
 
 Task:
 * Initialize project with Go modules
